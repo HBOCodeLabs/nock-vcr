@@ -61,6 +61,6 @@ way to re-activate mocking after a restore.
 * More options that can affect the recording behavior.
 * Hooks into popular testing frameworks.
 
-  [my-nock]: http://github.com/rudyjahchan/nock
-  [nock]: http://github.com/flatiron/nock
+  [my-nock]: http://github.com/HBOCodeLabs/nock
+  [nock]: http://github.com/HBOCodeLabs/nock
   [vcr]: http://github.com/vcr/vcr

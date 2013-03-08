@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/carbonfive/nock-vcr.git"
+    "url": "git://github.com/HBOCodeLabs/nock-vcr.git"
   },
   "keywords": [
     "mock",
@@ -19,7 +19,7 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies" : {
-    "nock" : "git://github.com/rudyjahchan/nock.git"
+    "nock" : "git://github.com/HBOCodeLabs/nock.git"
   },
   "devDependencies" : {
     "coffee-script": "1.4.x",
