@@ -19,7 +19,7 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies" : {
-    "nock" : "git://github.com/HBOCodeLabs/nock.git"
+    "nock" : "git+ssh://git@github.com:HBOCodeLabs/nock.git"
   },
   "devDependencies" : {
     "coffee-script": "1.4.x",
