@@ -1,6 +1,6 @@
 {
   "name": "nock-vcr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automate the recording and play-back of HTTP requests with the nock framework.",
   "main": "lib/nock-vcr.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies" : {
-    "nock" : "git://github.com/HBOCodeLabs/nock.git"
+    "nock" : "git+ssh://git@github.com:HBOCodeLabs/nock.git"
   },
   "devDependencies" : {
     "coffee-script": "1.4.x",
